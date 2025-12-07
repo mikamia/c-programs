@@ -1,0 +1,9 @@
+#include <studio.h>
+
+int main()
+{
+    int personID = 1;
+    int persionID2 = 2;
+}
+
+
